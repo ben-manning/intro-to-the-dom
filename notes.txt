@@ -1,6 +1,4 @@
 Here are my notes for this lesson
 
 
-asdfasdf
-aasdfasdf
-asdfasdfasdfasd
+For my CSS file I want to make sure I name my classes appropriately.
